@@ -14,7 +14,7 @@
 
 - 📄 Know about my experiences [i study in programming school for 3 years where i get a good base and do many project's]
 
-- Know methodologies like **Agile,Kanban** and **Scrumban**
+- 🔃 Know methodologies like **Agile,Kanban** and **Scrumban**
 
 - ⚡ Fun fact **I practice Thai boxing and i do sport**
 
