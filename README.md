@@ -16,7 +16,7 @@
 
 - 🔃 Know methodologies like **Agile,Kanban** and **Scrumban**
 
-- ⚡ Fun fact **I practice Thai boxing and i do sport**
+- ⚡ Fun fact **I practice Thai boxing and i do sport** **(I'm not Jonh :) )**
 
 - English **B2**
 
