@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **JavaScript - jquery - React**
 
-- 👯 I’m looking to collaborate on **intelegency community** like trainee
+- 👯 I’m looking to collaborate on **intelegency community** like **Trainee** or **Junior**
 
 - 💬 Ask me about **anything**
 
