@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **repaloadam@gmail.com**
 
-- 📄 Know about my experiences [i study in programming school for 3 years where i get a good base and do many project's]
+- 📄 Know about my experiences [i study in programming school for 4 years where i get a good base and do many project's]
 
 - 🔃 Know methodologies like **Agile,Kanban** and **Scrumban**
 
