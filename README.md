@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **SKM**
 
-- 🌱 I’m currently learning **JavaScript - React - tailwind**
+- 🌱 I’m currently learning **JavaScript - React**
 
 - 👯 I’m looking to collaborate on **intelegency community** like **Trainee** or **Junior**
 
