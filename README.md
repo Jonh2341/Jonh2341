@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **anything**
 
-- 📫 How to reach me **repaloadam@gmail.com**
+- 📫 How to reach me **repaloadam@gmail.com or rokakaak@gmail.com**
 
 - 📄 Know about my experiences [i study in programming school for 4 years where i get a good base and do many project's]
 
